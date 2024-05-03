@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 376" width="48" height="48">
+	<title>mail_icon-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 41.08h375v294.75h-375z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #181818 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m0 68c0-14.8 12-26.8 26.8-26.8h321.4c14.8 0 26.8 12 26.8 26.8v241c0 14.8-12 26.8-26.8 26.8h-321.4c-14.8 0-26.8-12-26.8-26.8zm26.8 13.8v227.3h321.4v-227.3l-136.2 104.8c-14.4 11.1-34.6 11.1-49 0zm295.4-13.8h-269.4l126.6 97.4c4.8 3.7 11.5 3.7 16.3 0z"/>
+		</g>
+	</g>
+</svg>
